@@ -11,6 +11,15 @@
 
 <br clear="both">
 
+## 🏆 LeetCode Profile  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/66yUFVv66a/)
+
+<br>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/u/66yUFVv66a?theme=dark&font=Montserrat&ext=contest)
+
+
+
 <h3 align="left">💻 Tech Stack:</h3>
 
 ###
@@ -62,6 +71,7 @@
 ###
 <br>
 <br>
+<h2>📊 My GitHub Activity & Contributions</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyankapinky2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
