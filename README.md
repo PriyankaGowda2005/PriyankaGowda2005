@@ -65,11 +65,11 @@
 <br>
 <h2>🏆 LeetCode Journey 🚀<h2>  
 
-- **Total Problems Solved:** 345 / 3506  
-- **Easy:** 137 / 870 | **Medium:** 179 / 1819 | **Hard:** 29 / 817  
-- **Total Submissions (Past Year):** 441  
-- **Total Active Days:** 79  
-- **Max Streak:** 41 Days 🔥  
+- Total Problems Solved: 345 / 3506  
+- Easy: 137 / 870 | Medium: 179 / 1819 | Hard: 29 / 817  
+- Total Submissions (Past Year): 441  
+- Total Active Days: 79  
+- Max Streak: 41 Days 🔥  
 - **Recent Badge:** 50 Days Badge 2025 🎖️  
 <br>
 
