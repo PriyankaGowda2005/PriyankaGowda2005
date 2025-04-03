@@ -12,7 +12,7 @@
 <br clear="both">
 
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left">🖥 Tech Stack: What I Know & Love 💙</h2>
 
 ###
 
@@ -59,7 +59,7 @@
 <br clear="both">
 
 
-<p align="left"><h2>About Me</h2><br><br>👋 Hey there! I'm Priyanka, a 3rd-year Information Science Engineering student with a CGPA of 9.64. I'm passionate about technology, problem-solving, and continuous learning.<br><br>🚀 I actively participate in hackathons and was honored to secure 4th place at IIT Bombay KoiiHack. I also enjoy mentoring and conducting workshops, sharing knowledge, and helping others grow.<br><br>👩‍💻 Currently, I’m Project Manager at Code_X, where I lead and collaborate on exciting tech projects. My goal is to explore AI, Blockchain, and Full Stack Development.</p>
+<p align="left"><h2>💡 About Me: Learning, Building, and Growing Every Day</h2><br><br>👋 Hey there! I'm Priyanka, a 3rd-year Information Science Engineering student with a CGPA of 9.64. I'm passionate about technology, problem-solving, and continuous learning.<br><br>🚀 I actively participate in hackathons and was honored to secure 4th place at IIT Bombay KoiiHack. I also enjoy mentoring and conducting workshops, sharing knowledge, and helping others grow.<br><br>👩‍💻 Currently, I’m Project Manager at Code_X, where I lead and collaborate on exciting tech projects. My goal is to explore AI, Blockchain, and Full Stack Development.</p>
 
 ###
 <br>
