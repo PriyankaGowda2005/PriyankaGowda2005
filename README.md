@@ -64,13 +64,14 @@
 ###
 <br>
 <h2>🏆 LeetCode Journey 🚀<h2>  
-
+<h4>
 - Total Problems Solved: 345 / 3506  
 - Easy: 137 / 870 | Medium: 179 / 1819 | Hard: 29 / 817  
 - Total Submissions (Past Year): 441  
 - Total Active Days: 79  
 - Max Streak: 41 Days 🔥  
 - **Recent Badge:** 50 Days Badge 2025 🎖️  
+</h4>
 <br>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/66yUFVv66a/)
