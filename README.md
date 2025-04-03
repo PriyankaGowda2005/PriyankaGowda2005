@@ -64,7 +64,7 @@
 ###
 <br>
 <br>
-## 🏆 LeetCode Journey 🚀  
+🏆 LeetCode Journey 🚀  
 
 - **Total Problems Solved:** 345 / 3506  
 - **Easy:** 137 / 870 | **Medium:** 179 / 1819 | **Hard:** 29 / 817  
@@ -108,17 +108,7 @@
   </a>
 </div>
 
-
-###
-
 <br clear="both">
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 🚀 **"Striving for excellence, one line of code at a time!"**  
 💡 Always open to new opportunities, collaborations, and innovative ideas.  
