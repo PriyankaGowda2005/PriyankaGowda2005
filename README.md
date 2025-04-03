@@ -19,6 +19,8 @@
 - **Total Active Days:** 79  
 - **Max Streak:** 41 Days 🔥  
 - **Recent Badge:** 50 Days Badge 2025 🎖️  
+<br>
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/66yUFVv66a/)
 
 
@@ -115,3 +117,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+🚀 **"Striving for excellence, one line of code at a time!"**  
+💡 Always open to new opportunities, collaborations, and innovative ideas.  
+📬 Feel free to connect with me on LinkedIn or drop me an email!  
+
