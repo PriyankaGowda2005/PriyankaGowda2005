@@ -63,8 +63,7 @@
 
 ###
 <br>
-<br>
-🏆 LeetCode Journey 🚀  
+<h3>🏆 LeetCode Journey 🚀<h3>  
 
 - **Total Problems Solved:** 345 / 3506  
 - **Easy:** 137 / 870 | **Medium:** 179 / 1819 | **Hard:** 29 / 817  
