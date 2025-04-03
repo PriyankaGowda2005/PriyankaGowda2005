@@ -11,18 +11,6 @@
 
 <br clear="both">
 
-## 🏆 LeetCode Journey 🚀  
-
-- **Total Problems Solved:** 345 / 3506  
-- **Easy:** 137 / 870 | **Medium:** 179 / 1819 | **Hard:** 29 / 817  
-- **Total Submissions (Past Year):** 441  
-- **Total Active Days:** 79  
-- **Max Streak:** 41 Days 🔥  
-- **Recent Badge:** 50 Days Badge 2025 🎖️  
-<br>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/66yUFVv66a/)
-
 
 <h3 align="left">💻 Tech Stack:</h3>
 
@@ -70,9 +58,23 @@
 
 <br clear="both">
 
+
 <p align="left">About Me<br><br>👋 Hey there! I'm Priyanka, a 3rd-year Information Science Engineering student with a CGPA of 9.64. I'm passionate about technology, problem-solving, and continuous learning.<br><br>🚀 I actively participate in hackathons and was honored to secure 4th place at IIT Bombay KoiiHack. I also enjoy mentoring and conducting workshops, sharing knowledge, and helping others grow.<br><br>👩‍💻 Currently, I’m Project Manager at Code_X, where I lead and collaborate on exciting tech projects. My goal is to explore AI, Blockchain, and Full Stack Development.</p>
 
 ###
+<br>
+<br>
+## 🏆 LeetCode Journey 🚀  
+
+- **Total Problems Solved:** 345 / 3506  
+- **Easy:** 137 / 870 | **Medium:** 179 / 1819 | **Hard:** 29 / 817  
+- **Total Submissions (Past Year):** 441  
+- **Total Active Days:** 79  
+- **Max Streak:** 41 Days 🔥  
+- **Recent Badge:** 50 Days Badge 2025 🎖️  
+<br>
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/66yUFVv66a/)
 <br>
 <br>
 <h2>📊 My GitHub Activity & Contributions</h2>
