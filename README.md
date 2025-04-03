@@ -5,7 +5,7 @@
 
 ###
 
-<h5 align="left">🎓 3rd Year ISE Student | CGPA: 9.64<br>🏆 Hackathon Enthusiast   | 4th Place – IIT Bombay KoiiHack  <br>👩‍🏫 Mentor & Workshop Instructor | Project Manager at Code_X  <br>🌱 Passionate about Tech, Innovation & Learning</h5>
+<h3 align="left">🎓 3rd Year ISE Student | CGPA: 9.64<br>🏆 Hackathon Enthusiast   | 4th Place – IIT Bombay KoiiHack  <br>👩‍🏫 Mentor & Workshop Instructor | Project Manager at Code_X  <br>🌱 Passionate about Tech, Innovation & Learning</h3>
 
 ###
 
