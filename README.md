@@ -60,6 +60,8 @@
 <p align="left">About Me<br><br>👋 Hey there! I'm Priyanka, a 3rd-year Information Science Engineering student with a CGPA of 9.64. I'm passionate about technology, problem-solving, and continuous learning.<br><br>🚀 I actively participate in hackathons and was honored to secure 4th place at IIT Bombay KoiiHack. I also enjoy mentoring and conducting workshops, sharing knowledge, and helping others grow.<br><br>👩‍💻 Currently, I’m Project Manager at Code_X, where I lead and collaborate on exciting tech projects. My goal is to explore AI, Blockchain, and Full Stack Development.</p>
 
 ###
+<br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyankapinky2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -71,12 +73,23 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/priyanka-gowda-4bb0201b4/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="LinkedIn logo" />
+  </a>
+  <a href="https://x.com/Priyanka1633643" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="Twitter logo" />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="Gmail logo" />
+  </a> 
+  <a href="https://discord.com/channels/@me" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="Discord logo" />
+  </a>
+  <a href="https://www.instagram.com/priyankagowda_vk18/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="31" alt="Instagram logo" />
+  </a>
 </div>
+
 
 ###
 
