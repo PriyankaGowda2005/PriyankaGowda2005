@@ -2,7 +2,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="img/profile.jpeg" alt="Priyanka Gowda" width="200" style="border-radius: 50%;">
   
   ### 🚀 **Full Stack Developer | AI/ML Enthusiast | Project Lead**
   
