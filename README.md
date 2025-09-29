@@ -184,6 +184,45 @@ Passionate **Full Stack Developer** and **AI/ML Enthusiast** currently pursuing 
 
 ---
 
+## 🔥 GitHub Activity Streak
+
+<div align="center">
+  <h3>📊 **632 submissions in the past one year**</h3>
+  <p>Total active days: <strong>179</strong> | Max streak: <strong>41</strong></p>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h3>📈 Total Contributions</h3>
+        <img src="https://img.shields.io/badge/352%20Contributions-FF6B6B?style=for-the-badge&logo=github&logoColor=white" />
+        <br><br>
+        <em>Jul 23, 2023 - Present</em>
+      </td>
+      <td align="center" width="33%">
+        <h3>🔥 Current Streak</h3>
+        <img src="https://img.shields.io/badge/2%20Days%20Streak-FFA500?style=for-the-badge&logo=fire&logoColor=white" />
+        <br><br>
+        <em>Sep 29 - Sep 30</em>
+      </td>
+      <td align="center" width="33%">
+        <h3>🏆 Longest Streak</h3>
+        <img src="https://img.shields.io/badge/10%20Days%20Streak-00FF00?style=for-the-badge&logo=trophy&logoColor=black" />
+        <br><br>
+        <em>Sep 4 - Sep 13</em>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>📅 Contribution Calendar</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyankapinky2004&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</div>
+
+---
+
 ## 🏆 Achievements & Certifications
 
 <div align="center">
