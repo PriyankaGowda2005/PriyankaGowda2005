@@ -217,7 +217,7 @@ Passionate **Full Stack Developer** and **AI/ML Enthusiast** currently pursuing 
 
 <div align="center">
   <h3>📅 Contribution Calendar</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyankapinky2004&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriyankaGowda2005&theme=dracula&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
