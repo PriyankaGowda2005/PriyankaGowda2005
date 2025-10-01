@@ -178,7 +178,7 @@ Passionate **Full Stack Developer** and **AI/ML Enthusiast** currently pursuing 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankapinky2004&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriyankaGowda2005&theme=dracula&hide_border=false" alt="GitHub Streak" />
 </div>
 
 ---
